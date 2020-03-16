@@ -17,6 +17,6 @@ resps2[2] = "Entrada = 'numero1 <- 1'\n               'numero2 <- 9'\n\nSaída =
 resps2[3] = "Não haverá saída de dados.";
 
 
-texto3[1] = "Var\n\n	valor, fat, num:inteiro\n\nInicio\n	Leia(valor)\n	se (valor <= 0) entao\n		escreva('valor inválido')\n	senao\n		fat <- 1\n		num <- valor\n		enquanto (num > 1) faca\n			fat <- fat * num\n			num <- num -1;\n		fimenquanto\n	fimse\n	escreval('O resultado do fatorial é: 'fat)\nFimalgoritmo";
+texto3[1] = "Var\n\n    valor, fat, num:inteiro\n\nInicio\n    Leia(valor)\n    se (valor <= 0) entao\n        escreva('valor inválido')\n    senao\n        fat <- 1\n        num <- valor\n        enquanto (num > 1) faca\n            fat <- fat * num\n            num <- num -1;\n        fimenquanto\n    fimse\n    escreval('O resultado do fatorial é: 'fat)\nFimalgoritmo";
 
-resps3[0] = ""
+resps3[0] = "Entrada: -5\nSaída: O resultado do fatorial é: 35";
