@@ -82,7 +82,6 @@ if(global.fase == 3){
 		}
 		
 		if(global.pontuacao == 2){
-			global.fase = 3;
 			//zerando as váriaveis para a fase 2
 			keyboard_string = "";
 			global.posicao = 1;
@@ -93,7 +92,8 @@ if(global.fase == 3){
 			resp1 = false;
 			resp2 = false;
 			resp3 = false;
-			global.click = false;				
+			global.click = false;
+			global.complete2 = true;
 		}
 	}
 }

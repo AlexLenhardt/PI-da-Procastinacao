@@ -353,5 +353,6 @@ if(!congratulation){
 	draw_set_font(Fonte_Planetaria);
 	texto_atual = (string_copy(sucesso,0,cont));
 	draw_text_ext(1450,103,sucesso,100,500);
+	global.complete1[0] = true;
 }
 draw_set_font(-1);

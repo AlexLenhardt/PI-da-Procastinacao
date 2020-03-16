@@ -42,4 +42,5 @@ if(!congratulation){
 	}
 }else{
 	draw_sprite_ext(spr_END,0,500,750,1.5,1.8,0,c_white,1);
+	global.complete1[1] = true;
 }

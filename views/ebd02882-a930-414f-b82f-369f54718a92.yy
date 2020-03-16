@@ -10,7 +10,8 @@
         "23024f72-000d-46d0-a9ea-585d516b7e0f",
         "bf8c2448-675d-4267-afd0-b0a60f93462c",
         "fe5f0d21-6ab7-4c39-a766-0c53a83b41f5",
-        "c219c148-14fa-4272-8bae-c7518c70269e"
+        "c219c148-14fa-4272-8bae-c7518c70269e",
+        "255c8d90-d4f9-4fe4-998f-492f8dbfb8cd"
     ],
     "filterType": "GMObject",
     "folderName": "Cenario2",

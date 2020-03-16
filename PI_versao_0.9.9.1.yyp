@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "255c8d90-d4f9-4fe4-998f-492f8dbfb8cd",
+            "Value": {
+                "id": "39bd4f54-6064-49e1-848e-608415e0738d",
+                "resourcePath": "objects\\Controle_fase_completa\\Controle_fase_completa.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25a7f7d0-bcfc-43e0-811a-1965d7644350",
             "Value": {
                 "id": "96a088e0-6987-4be9-8173-1731766fefeb",
@@ -1051,6 +1059,14 @@
             "Value": {
                 "id": "3937efa6-bfe4-40a5-b36e-9486808f681c",
                 "resourcePath": "objects\\room_goto_Quest1\\room_goto_Quest1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d4ff9b43-ac3a-4a68-a8cf-c70dd1234c3e",
+            "Value": {
+                "id": "97147880-6654-4872-949f-107953650a35",
+                "resourcePath": "objects\\Missao3_return_cenario_2\\Missao3_return_cenario_2.yy",
                 "resourceType": "GMObject"
             }
         },

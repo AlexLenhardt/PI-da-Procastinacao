@@ -199,8 +199,4 @@ if(fase == 3){
 		}
 		
 }
-
-if(fase == 4){
-	
-}
 draw_set_font(-1);
