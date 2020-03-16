@@ -142,5 +142,65 @@ if(keyboard_check_pressed(vk_space)){
 
 if(fase == 3){
 		draw_text_color(100,100,texto3[1],c_white,c_white,c_white,c_white,1);
+		
+		draw_text_color(500,100,resps3[0],c_white,c_white,c_white,c_white,1);
+		draw_text_color(500,250,resps3[1],c_white,c_white,c_white,c_white,1);
+		draw_text_color(500,400,resps3[2],c_white,c_white,c_white,c_white,1);
+		draw_text_color(500,550,resps3[3],c_white,c_white,c_white,c_white,1);
+		
+		if(keyboard_check_pressed(vk_down)){
+			posicao++;
+			if(posicao == 5){
+				posicao = 1;	
+			}
+		}
+		if(keyboard_check_pressed(vk_up)){
+			posicao--;
+			if(posicao == 0){
+				posicao = 4;	
+			}
+		}
+		
+		switch(posicao){
+			case 1:
+				draw_set_alpha(0.5);
+				draw_set_color(c_white);
+				draw_rectangle(495,95,767,143,false);
+				draw_set_alpha(1);
+			break;
+			
+			case 2:
+				draw_set_alpha(0.5);
+				draw_set_color(c_white);
+				draw_rectangle(495,245,780,293,false);
+				draw_set_alpha(1);
+			break;
+			
+			case 3:
+				draw_set_alpha(0.5);
+				draw_set_color(c_white);
+				draw_rectangle(495,395,780,443,false);
+				draw_set_alpha(1);
+			break;
+		
+			case 4:
+				draw_set_alpha(0.5);
+				draw_set_color(c_white);
+				draw_rectangle(495,545,780,593,false);
+				draw_set_alpha(1);
+			break;
+		}
+		
+		if(keyboard_check_pressed(vk_space)){
+			if(posicao == 2){
+				fase++;
+				posicao = 1;
+			}
+		}
+		
+}
+
+if(fase == 4){
+	
 }
 draw_set_font(-1);
