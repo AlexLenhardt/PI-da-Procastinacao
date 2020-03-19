@@ -193,9 +193,7 @@ if(!congratulation){
 			
 				draw_sprite_ext(spr_fluxograma_inicio,0,1390,900,2.5,2.5,0,c_white,1);
 				//draw_sprite_ext(spr_fluxograma_inicio,3,1770,900,2.5,2.5,0,c_white,1);
-				draw_set_font(Fonte_txt_Grande);
-				draw_text(1570,800,a);
-				draw_set_font(-1);
+				draw_sprite_ext(spr_fluxograma_inicio,6,1770,850,2.5,2.5,0,c_white,1);
 				draw_sprite_ext(spr_fluxograma_inicio,5,1390,1300,2.5,2.5,0,c_white,1);
 				draw_sprite_ext(spr_fluxograma_inicio,1,1770,1300,2.5,2.5,0,c_white,1);
 			
