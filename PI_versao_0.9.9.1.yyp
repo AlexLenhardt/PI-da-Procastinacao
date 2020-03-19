@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "56f0685e-c3b5-46be-b1f7-732badcff452",
+            "Value": {
+                "id": "c84af862-1958-42cc-8300-2cc191561a4a",
+                "resourcePath": "objects\\obj_controleTeclas\\obj_controleTeclas.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57e3104e-8d23-4221-90c8-1884d4efc50b",
             "Value": {
                 "id": "ba28ffcb-cf35-49af-a30b-9867fb186411",
