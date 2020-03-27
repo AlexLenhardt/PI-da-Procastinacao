@@ -224,7 +224,7 @@
         },
         {
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
-            "name": "Tiles_destructiom",
+            "name": "Tiles_destruction",
             "id": "bf7503d3-a6b9-45fc-a007-2940f4536242",
             "depth": 101,
             "grid_x": 32,
