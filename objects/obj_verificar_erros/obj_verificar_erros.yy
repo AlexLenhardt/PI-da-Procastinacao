@@ -1,10 +1,19 @@
 {
-    "id": "255c8d90-d4f9-4fe4-998f-492f8dbfb8cd",
+    "id": "961387eb-5b73-4e97-af8c-d399fef2fb15",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Controle_fase_completa",
+    "name": "obj_verificar_erros",
     "eventList": [
-        
+        {
+            "id": "0aa867ff-5ca1-48c0-80a8-8201cae534b7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "961387eb-5b73-4e97-af8c-d399fef2fb15"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

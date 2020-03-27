@@ -35,6 +35,8 @@ if(global.fase == 1){
 			resp2 = false;
 			resp3 = false;
 			global.click = false;
+		}else{
+			global.erros++;	
 		}
 	}
 }
@@ -65,6 +67,8 @@ if(global.fase == 2){
 			resp2 = false;
 			resp3 = false;
 			global.click = false;				
+		}else{
+			global.erros++;	
 		}
 	}
 }
@@ -94,6 +98,8 @@ if(global.fase == 3){
 			resp3 = false;
 			global.click = false;
 			global.complete2 = true;
+		}else{
+			global.erros++;	
 		}
 	}
 }

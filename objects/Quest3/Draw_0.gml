@@ -76,6 +76,8 @@ if(fase == 1){
 		if(keyboard_check_pressed(vk_space)){
 			fase++;	
 			posicao = 1;
+		}else{
+			global.erros++;	
 		}
 	}
 }
@@ -137,6 +139,8 @@ if(keyboard_check_pressed(vk_space)){
 	if(posicao == 4){
 		posicao = 1;
 		fase = 3;
+	}else{
+		global.erros++;	
 	}
 }
 
@@ -195,6 +199,8 @@ if(fase == 3){
 			if(posicao == 2){
 				fase++;
 				posicao = 1;
+			}else{
+				global.erros++;	
 			}
 		}
 		

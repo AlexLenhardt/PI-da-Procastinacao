@@ -4,6 +4,5 @@ texto_obj[2] = "Você irá ajudar";
 texto_obj[3] = "";
 texto_obj[4] = "Você não tem escolha :).Você acabou de receber um tablet. Com ele, toda a informação que temos estará disponível. Boa Sorte! :)";
 texto_obj[5] = "Obrigado por aceitar. Você acabou de receber um tablet. Com ele, toda a informação que temos estará disponível. Boa Sorte! :)";
-global.animation = true;
 image_index = 0;
 image_speed = 0

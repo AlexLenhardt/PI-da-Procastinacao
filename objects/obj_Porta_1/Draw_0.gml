@@ -93,6 +93,8 @@ if(!congratulation){
 					if(posicao == 1){
 						fase = 2;	
 						cont = 0;
+					}else{
+						global.erros++;
 					}
 				}
 			}
@@ -177,6 +179,8 @@ if(!congratulation){
 						if(posicao == 3){
 							fase = 3;
 							cont = 0;
+						}else{
+							global.erros++
 						}
 					}
 			}
@@ -265,6 +269,8 @@ if(!congratulation){
 							fase = 4 ;
 							cont = 0;
 							posicao = 1;
+						}else{
+							global.erros++
 						}
 					}
 			}
@@ -341,6 +347,8 @@ if(!congratulation){
 							congratulation = true;
 							cont = 0;
 							fase = 6
+						}else{
+							global.erros++;	
 						}
 					}
 				}
