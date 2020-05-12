@@ -165,7 +165,7 @@ if(global.fase == 3){
 		if(global.posicao == 1){
 			//text recebe mensagem para deixar gravado na tela
 			text1 = mensagem
-			//resp1 recebe true para verificar se já foi colocado alguma resposta naquele estapaço
+			//resp1 recebe true para verificar se já foi colocado alguma resposta naquele espaço
 			mensagem = "";
 			resp1 = true;
 			//posicao global recebe 2 para ir ao proximo texto
@@ -214,5 +214,10 @@ if(global.fase == 3){
 		draw_set_valign(fa_top);
 	}
 
+}
+
+if(global.fase == 4){
+	draw_set_font(Fonte_txt_Grande)
+	draw_text_color(500,400,win,c_black,c_black,c_black,c_black,1)	
 }
 draw_set_font(-1);

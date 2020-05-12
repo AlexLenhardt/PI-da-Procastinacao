@@ -9,9 +9,11 @@ resp1 = false;
 resp2 = false;
 resp3 = false;
 
-quest = "Faça com que\nescreva '10' \napenas 1 vez.";
-quest2 = "Complete com\nasestruturas\nque estao\nfaltando para\nque a\nvariável 'x' \nseja igual\na '10'.";
-quest3 = "Utilizando da estrutura 'enquanto' faca com que 'x' seja igual a ler.";
+quest = "Utilizando da estrutura 'Se' faça com que 'x' seja igual a 1.";
+quest2 = "Utilizando da estrutura 'Para' faça com que 'x' seja igual a 10.";
+quest3 = "Utilizando da estrutura 'enquanto' faça com que 'x' seja igual a ler.";
+
+win = "Voce Conseguiu!"
 
 texto_atual = "";
 cont = 0;
