@@ -5,7 +5,7 @@ mensagem = keyboard_string;
 if(keyboard_check_pressed(vk_enter)){
 		keyboard_string = "";
 }
-
+show_debug_message(global.erros)
 if(global.fase == 1){
 	if(global.click){
 		global.pontuacao = 0;
@@ -36,6 +36,7 @@ if(global.fase == 1){
 			resp3 = false;
 			global.click = false;
 		}else{
+			global.click = false;
 			global.erros++;	
 		}
 	}
@@ -68,6 +69,7 @@ if(global.fase == 2){
 			resp3 = false;
 			global.click = false;				
 		}else{
+			global.click = false;
 			global.erros++;	
 		}
 	}
@@ -86,6 +88,7 @@ if(global.fase == 3){
 		}
 		
 		if(global.pontuacao == 2){
+			global.fase=4;
 			//zerando as váriaveis para a fase 2
 			keyboard_string = "";
 			global.posicao = 1;
@@ -99,7 +102,11 @@ if(global.fase == 3){
 			global.click = false;
 			global.complete2 = true;
 		}else{
+			global.click = false;
 			global.erros++;	
 		}
 	}
+}
+if(global.fase == 4){
+	draw_text(100,100,global.erros)	
 }

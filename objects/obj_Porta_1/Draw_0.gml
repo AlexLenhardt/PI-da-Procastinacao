@@ -220,7 +220,7 @@ if(!congratulation){
 					//Posicao 2
 					draw_set_color(c_white);
 					draw_set_alpha(.3);
-					draw_rectangle(1615,833,1922,966,false)
+					draw_rectangle(1615,733,1922,966,false)
 					draw_set_alpha(1);
 				
 					if(keyboard_check_pressed(vk_down)){
@@ -279,7 +279,11 @@ if(!congratulation){
 					texto_atual = string_copy(quest4,0,cont);
 					draw_text_ext_color(1330,400,texto_atual,100,550,c_white,c_white,c_white,c_white,1);
 					cont++;
-				
+					draw_sprite(spr_solved1,0,1350,550);
+					draw_set_font(Fonte_txt_Grande)
+					draw_text(1345,1252,texto2);
+					draw_text(1345,1352,texto);
+					
 					if(posicao == 1){
 						draw_set_color(c_white);
 						draw_set_alpha(.3);

@@ -15,6 +15,8 @@ fase = 1;
 
 yy = 0;
 xx = 0
-a = "Colocar um Triângulo";
+
+texto = "True";
+texto2 = "False";
 
 posicao = 1;

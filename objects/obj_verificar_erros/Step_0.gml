@@ -1,1 +1,1 @@
-show_debug_message(global.erros);
+show_debug_message(global.complete2);

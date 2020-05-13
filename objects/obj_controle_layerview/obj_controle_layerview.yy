@@ -1,18 +1,18 @@
 {
-    "id": "abe3618e-023a-4824-b732-16f23478e0d2",
+    "id": "cd188198-e925-45dd-b7ae-c048d78d3aaa",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "room_goto_Quest2",
+    "name": "obj_controle_layerview",
     "eventList": [
         {
-            "id": "b5ae2d78-847f-4db8-bfdf-1719a751279c",
+            "id": "b564921b-42ef-4497-a00f-f380bc1bddbf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "fe5f0d21-6ab7-4c39-a766-0c53a83b41f5",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "abe3618e-023a-4824-b732-16f23478e0d2"
+            "eventtype": 3,
+            "m_owner": "cd188198-e925-45dd-b7ae-c048d78d3aaa"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5f0e1872-06ad-44da-84c8-de9f1b90810c",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
