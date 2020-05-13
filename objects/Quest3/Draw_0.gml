@@ -1,3 +1,4 @@
+if(!global.complete3){
 draw_set_font(Fonte_principal);
 if(fase == 1){
 	
@@ -206,3 +207,4 @@ if(fase == 3){
 		
 }
 draw_set_font(-1);
+}
