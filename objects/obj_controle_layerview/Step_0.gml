@@ -3,5 +3,9 @@ if(global.complete2){
 }
 
 if(global.complete3){
-	layer_tile_destroy(92)
+	layer_tile_destroy(layer_tilemap_get_id("Tiles_destruction"))
+}
+
+if(global.complete2 && global.complete3){
+		instance_deactivate_object(Muro)
 }
