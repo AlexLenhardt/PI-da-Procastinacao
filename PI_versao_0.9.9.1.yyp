@@ -1183,6 +1183,14 @@
             }
         },
         {
+            "Key": "cd188198-e925-45dd-b7ae-c048d78d3aaa",
+            "Value": {
+                "id": "955f500a-ea00-4954-b973-bb76efedb239",
+                "resourcePath": "objects\\obj_controle_layerview\\obj_controle_layerview.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d22fc7eb-9af2-4b39-946c-c44b7e814436",
             "Value": {
                 "id": "4a0b5e93-0610-461b-a6a2-da9ddf4a9f01",

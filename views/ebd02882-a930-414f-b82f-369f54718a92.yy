@@ -14,7 +14,8 @@
         "ae72c41d-debf-4b68-a30e-7b61ab023e03",
         "fe5f0d21-6ab7-4c39-a766-0c53a83b41f5",
         "c219c148-14fa-4272-8bae-c7518c70269e",
-        "961387eb-5b73-4e97-af8c-d399fef2fb15"
+        "961387eb-5b73-4e97-af8c-d399fef2fb15",
+        "cd188198-e925-45dd-b7ae-c048d78d3aaa"
     ],
     "filterType": "GMObject",
     "folderName": "Cenario2",
