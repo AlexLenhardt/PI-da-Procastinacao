@@ -983,6 +983,14 @@
             }
         },
         {
+            "Key": "aa8941e8-aee7-455a-802c-daae352f8552",
+            "Value": {
+                "id": "3b0b7a7e-2020-4cfd-bfe4-a041ba46b48e",
+                "resourcePath": "sprites\\spr_corpo1\\spr_corpo1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ab6b3978-df85-4af6-976d-7590bb04b758",
             "Value": {
                 "id": "5d0e634d-85fa-4679-a8db-8f514cc88ef6",
