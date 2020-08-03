@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "274b2a0d-21e2-44ce-ae0c-eea5c22d9b5e",
+            "Value": {
+                "id": "ff87f28a-de26-430b-9e6f-e0fb3ef17de4",
+                "resourcePath": "sprites\\spr_solved2\\spr_solved2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "28c12ff7-6bab-4469-9a3b-19ae30e23c6f",
             "Value": {
                 "id": "edcc6b6f-8e72-4bd5-a071-892be5ac97fd",
