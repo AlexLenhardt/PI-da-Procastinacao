@@ -1,5 +1,5 @@
 if(!global.congratulationP1){
-	if(place_meeting(x,y,obj_test)){
+	if(global.botao1){
 		//Print Título
 		draw_set_font(Fonte_Planetaria);
 		draw_text_ext_color(1450,103,titulo,100,500,c_white,c_white,c_white,c_white,1);

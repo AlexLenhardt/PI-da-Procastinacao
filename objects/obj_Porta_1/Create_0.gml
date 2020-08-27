@@ -19,3 +19,5 @@ texto = "True";
 texto2 = "False";
 
 posicao = 1;
+
+global.botao1 = false

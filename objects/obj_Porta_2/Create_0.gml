@@ -13,3 +13,5 @@ xx = 0
 posicao = 1;
 
 global.reset=false;
+
+global.botao2 = false
