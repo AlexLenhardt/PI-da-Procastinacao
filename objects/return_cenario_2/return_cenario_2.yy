@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_playerface",
-    "path": "sprites/spr_playerface/spr_playerface.yy",
+    "name": "spr_itens",
+    "path": "sprites/spr_itens/spr_itens.yy",
   },
   "solid": false,
   "visible": true,
