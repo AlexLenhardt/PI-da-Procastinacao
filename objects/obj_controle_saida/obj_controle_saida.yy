@@ -1,9 +1,6 @@
 {
-  "spriteId": {
-    "name": "spr_block",
-    "path": "sprites/spr_block/spr_block.yy",
-  },
-  "solid": true,
+  "spriteId": null,
+  "solid": false,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -21,7 +18,7 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"parent":{"name":"porta_saida","path":"objects/porta_saida/porta_saida.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_controle_saida","path":"objects/obj_controle_saida/obj_controle_saida.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -30,7 +27,7 @@
     "path": "folders/Objects/Saída.yy",
   },
   "resourceVersion": "1.0",
-  "name": "porta_saida",
+  "name": "obj_controle_saida",
   "tags": [],
   "resourceType": "GMObject",
 }
