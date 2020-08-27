@@ -1,6 +1,6 @@
 //AQUI PRNTA O TEXTO ERRADO
 //AQUI PRINTA OS QUADRADOS BRANCOS
-
+if(!global.complete2){
 if(global.fase == 1){
 	draw_set_font(Fonte_txt_Grande);
 	draw_text_color(300,50,text_errado1,c_black,c_black,c_black,c_black,1);
@@ -68,4 +68,5 @@ if(global.fase == 3){
 		draw_rectangle(310,625,490,665,false);
 		draw_set_alpha(1);
 	}
+}
 }
