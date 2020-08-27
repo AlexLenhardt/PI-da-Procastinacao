@@ -3,7 +3,7 @@ draw_sprite(spr_inventory_bar,global.button_press,0,0);
 
 //sprite dos itens
 for(var i=0;i<ds_grid_width(global.inv);i++){
-	draw_sprite(spr_itens,4,i*62+10,10);
+	draw_sprite(spr_itens,global.inv[# i, 0],i*62+10,10);
 }
 
 //quantidade de itens
