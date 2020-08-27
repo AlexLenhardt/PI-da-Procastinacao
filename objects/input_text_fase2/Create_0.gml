@@ -9,7 +9,7 @@ resp1 = false;
 resp2 = false;
 resp3 = false;
 
-quest = "Utilizando da estrutura 'Se' faça com que 'x' seja igual a 1.";
+quest = "Utilizando da estrutura 'Se' faça com que 'a' seja igual a 10.";
 quest2 = "Utilizando da estrutura 'Para' faça com que 'x' seja igual a 10.";
 quest3 = "Utilizando da estrutura 'enquanto' faça com que 'x' seja igual a ler.";
 
