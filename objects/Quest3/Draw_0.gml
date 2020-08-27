@@ -192,10 +192,9 @@ if(!global.complete3){
 				global.erros++
 			}
 	}
-	
-	draw_set_font(-1);
 }else{
 	draw_set_font(Fonte_Planetaria);
 	texto_atual = (string_copy(sucesso,0,cont));
 	draw_text_ext(400,200,sucesso,100,500);	
 }
+draw_set_font(-1);

@@ -150,10 +150,10 @@
     "children": [],
   },
   "RoomOrder": [
+    {"name":"Menu","path":"rooms/Menu/Menu.yy",},
     {"name":"Cenario_2","path":"rooms/Cenario_2/Cenario_2.yy",},
     {"name":"Sala_escolha","path":"rooms/Sala_escolha/Sala_escolha.yy",},
     {"name":"Pause","path":"rooms/Pause/Pause.yy",},
-    {"name":"Menu","path":"rooms/Menu/Menu.yy",},
     {"name":"Segunda_Quest","path":"rooms/Segunda_Quest/Segunda_Quest.yy",},
     {"name":"Options","path":"rooms/Options/Options.yy",},
     {"name":"Cenario_inicio","path":"rooms/Cenario_inicio/Cenario_inicio.yy",},
