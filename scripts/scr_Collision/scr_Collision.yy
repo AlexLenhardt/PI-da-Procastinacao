@@ -1,8 +1,12 @@
 {
-    "id": "ded28a1b-05a5-4f27-a9ce-8def70e07f63",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_Collision",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_Collision",
+  "tags": [],
+  "resourceType": "GMScript",
 }

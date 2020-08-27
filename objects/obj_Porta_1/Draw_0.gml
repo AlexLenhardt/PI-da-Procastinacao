@@ -279,7 +279,7 @@ if(!congratulation){
 					texto_atual = string_copy(quest4,0,cont);
 					draw_text_ext_color(1330,400,texto_atual,100,550,c_white,c_white,c_white,c_white,1);
 					cont++;
-					draw_sprite(spr_solved1,0,1350,550);
+					draw_sprite(spr_solved1,0,2400,1100);
 					draw_set_font(Fonte_txt_Grande)
 					draw_text(1345,1252,texto2);
 					draw_text(1345,1352,texto);
@@ -362,7 +362,7 @@ if(!congratulation){
 }else {
 	draw_set_font(Fonte_Planetaria);
 	texto_atual = (string_copy(sucesso,0,cont));
-	draw_text_ext(1450,103,sucesso,100,500);
+	draw_text_ext(1250,403,sucesso,100,500);
 	global.complete1[0] = true;
 }
 draw_set_font(-1);

@@ -5,3 +5,4 @@ scr_Walk();
 scr_Pause();
 
 global.tela = false;
+

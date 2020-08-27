@@ -1,8 +1,12 @@
 {
-    "id": "917914f2-180c-4aac-bde3-4a647b9a6671",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "scr_Create_Itens",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Inventario",
+    "path": "folders/Scripts/Inventario.yy",
+  },
+  "resourceVersion": "1.0",
+  "name": "scr_Create_Itens",
+  "tags": [],
+  "resourceType": "GMScript",
 }

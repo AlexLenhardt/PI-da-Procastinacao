@@ -1,1 +1,5 @@
-room_goto(Options);
+function scr_Options() {
+	room_goto(Options);
+
+
+}
