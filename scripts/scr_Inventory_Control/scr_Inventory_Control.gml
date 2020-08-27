@@ -27,7 +27,7 @@ function scr_Inventory_Control() {
 	ds_grid_clear(global.inv,0);
 
 	//adicionando itens a hotbar
-	scr_Recive_Item(item.item_test);
+	//scr_Recive_Item(item.item_test);
 
 
 
