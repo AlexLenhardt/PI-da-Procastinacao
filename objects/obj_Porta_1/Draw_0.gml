@@ -1,4 +1,4 @@
-if(!congratulation){
+if(!global.congratulationP1){
 	if(place_meeting(x,y,obj_test)){
 		//Print Título
 		draw_set_font(Fonte_Planetaria);
@@ -88,15 +88,6 @@ if(!congratulation){
 						posicao = 3;
 					}
 				}
-			
-				if(keyboard_check_pressed(vk_space)){
-					if(posicao == 1){
-						fase = 2;	
-						cont = 0;
-					}else{
-						global.erros++;
-					}
-				}
 			}
 			//FASE 2
 			//FASE 2
@@ -176,11 +167,11 @@ if(!congratulation){
 					}
 				}
 					if(keyboard_check_pressed(vk_space)){
-						if(posicao == 3){
+						if(posicao != 3){
+							global.erros++
+						}else{
 							fase = 3;
 							cont = 0;
-						}else{
-							global.erros++
 						}
 					}
 			}
@@ -265,12 +256,12 @@ if(!congratulation){
 					}
 				}
 					if(keyboard_check_pressed(vk_space)){
-						if(posicao == 2){
+						if(posicao != 2){
+							global.erros++
+						}else{
 							fase = 4 ;
 							cont = 0;
 							posicao = 1;
-						}else{
-							global.erros++
 						}
 					}
 			}
@@ -309,7 +300,9 @@ if(!congratulation){
 					}
 				
 					if(keyboard_check_pressed(vk_space)){
-						if(posicao == 2){
+						if(posicao != 2){
+							global.erros++		
+						}else{
 							fase = 5;
 							cont = 0
 							posicao = 1;
@@ -348,7 +341,7 @@ if(!congratulation){
 				
 					if(keyboard_check_pressed(vk_space)){
 						if(posicao = 2){
-							congratulation = true;
+							global.congratulationP1 = true;
 							cont = 0;
 							fase = 6
 						}else{
@@ -356,6 +349,16 @@ if(!congratulation){
 						}
 					}
 				}
+				
+	if(keyboard_check_pressed(vk_space)){
+		if((fase==1) && (posicao == 1)){
+			fase = 2;	
+			cont = 0;
+		}else{
+			
+		}
+	}
+				
 	}else{
 		fase = 1;
 	}

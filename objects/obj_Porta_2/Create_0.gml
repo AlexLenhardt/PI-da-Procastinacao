@@ -1,7 +1,6 @@
 titulo = "Arrasta e Solta";
 quest = "Coloque a estrutura correta no fluxograma";
 
-congratulation = false;
 drop=false;
 
 texto_atual = "";

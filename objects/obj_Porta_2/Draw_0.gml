@@ -1,4 +1,4 @@
-if(!congratulation){
+if(!global.congratulationP2){
 	if(place_meeting(x,y,obj_test)){
 		
 		draw_set_font(Fonte_Planetaria);
@@ -33,7 +33,7 @@ if(!congratulation){
 		if(fase == 3){
 			draw_sprite_ext(spr_quest3,0,550,750,2,2.2,0,c_white,1);
 			if(global.dados && !global.processo){
-				congratulation=true;
+				global.congratulationP2=true;
 				obj_SE.image_index=7;
 				obj_Processo.image_index=7;
 				obj_Dados.image_index=7;

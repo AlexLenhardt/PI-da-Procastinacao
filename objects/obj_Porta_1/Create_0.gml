@@ -4,7 +4,6 @@ quest2 = "Qual dessas é a estrutura de Inicio/Fim?";
 quest3 = "Qual desses não é uma estrutura?";
 quest4 = "Qual a saída?";
 
-congratulation = false;
 
 sucesso = "Você é incrível :)!";
 
