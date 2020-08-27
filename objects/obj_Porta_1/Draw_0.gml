@@ -166,14 +166,6 @@ if(!global.congratulationP1){
 						posicao = 3;
 					}
 				}
-					if(keyboard_check_pressed(vk_space)){
-						if(posicao != 3){
-							global.erros++
-						}else{
-							fase = 3;
-							cont = 0;
-						}
-					}
 			}
 		
 		
@@ -255,15 +247,6 @@ if(!global.congratulationP1){
 						posicao = 3;
 					}
 				}
-					if(keyboard_check_pressed(vk_space)){
-						if(posicao != 2){
-							global.erros++
-						}else{
-							fase = 4 ;
-							cont = 0;
-							posicao = 1;
-						}
-					}
 			}
 			
 				if(fase == 4){
@@ -298,16 +281,6 @@ if(!global.congratulationP1){
 						}
 				
 					}
-				
-					if(keyboard_check_pressed(vk_space)){
-						if(posicao != 2){
-							global.erros++		
-						}else{
-							fase = 5;
-							cont = 0
-							posicao = 1;
-						}
-					}
 				}
 			
 							if(fase == 5){
@@ -338,24 +311,29 @@ if(!global.congratulationP1){
 						}
 				
 					}
-				
-					if(keyboard_check_pressed(vk_space)){
-						if(posicao = 2){
-							global.congratulationP1 = true;
-							cont = 0;
-							fase = 6
-						}else{
-							global.erros++;	
-						}
-					}
 				}
 				
 	if(keyboard_check_pressed(vk_space)){
-		if((fase==1) && (posicao == 1)){
+		if((fase == 1) && (posicao == 1)){
 			fase = 2;	
 			cont = 0;
+		}else if((fase == 2) && (posicao == 3)){
+			fase = 3;
+			cont = 0;
+		}else if((fase == 3) && (posicao == 2)){
+			fase = 4;
+			cont = 0;
+			posicao = 1;
+		}else if((fase == 4) && (posicao == 2)){
+			fase = 5;
+			cont = 0
+			posicao = 1;
+		}else if((fase == 5) && (posicao == 2)){
+			global.congratulationP1 = true;
+			cont = 0;
+			fase = 6
 		}else{
-			
+			global.erros++	
 		}
 	}
 				
