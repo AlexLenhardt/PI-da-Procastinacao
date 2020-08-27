@@ -1,3 +1,5 @@
+
+
 texto1[1] = "Var\n\nv1, v2, v3: caractere\n\nInicio\n\nleia(v1)\nleia(v2)\n\nv3 <- v1\nv1 <- v2\nv2 <- v3\n\nescreval('Variável 1: ',v1)\nescreval('Variável 2: ',v2)\nescreval('Variável 3: ',v3)\n\nFimalgoritmo";
 
 resps1[0] = "Entrada = 'v1 <- 3'\n               'v2 <- 5'\nSaída =    'Variável 1: 3'\n              'Variável 2: 4'\n              'Variável 3: 5'";

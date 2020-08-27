@@ -75,7 +75,7 @@ if(!global.complete3){
 	}
 
 	if(fase == 2){
-		draw_text_color(100,100,texto2[1],c_white,c_white,c_white,c_white,1);
+		draw_text_color(50,100,texto2[1],c_white,c_white,c_white,c_white,1);
 	
 		draw_text_color(600,100,resps2[0],c_white,c_white,c_white,c_white,1);
 		draw_text_color(600,250,resps2[1],c_white,c_white,c_white,c_white,1);
