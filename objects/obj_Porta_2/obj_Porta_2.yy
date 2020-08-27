@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_incio",
-    "path": "sprites/spr_incio/spr_incio.yy",
+    "name": "spr_input_textbox",
+    "path": "sprites/spr_input_textbox/spr_input_textbox.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,6 +23,7 @@
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_Porta_2","path":"objects/obj_Porta_2/obj_Porta_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"parent":{"name":"obj_Porta_2","path":"objects/obj_Porta_2/obj_Porta_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"parent":{"name":"obj_Porta_2","path":"objects/obj_Porta_2/obj_Porta_2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
