@@ -25,6 +25,7 @@
     {"id":{"name":"spr_incio","path":"sprites/spr_incio/spr_incio.yy",},"order":1,},
     {"id":{"name":"spr_fluxograma_inicio","path":"sprites/spr_fluxograma_inicio/spr_fluxograma_inicio.yy",},"order":2,},
     {"id":{"name":"New_Piskel","path":"sprites/New_Piskel/New_Piskel.yy",},"order":3,},
+    {"id":{"name":"Room13","path":"rooms/Room13/Room13.yy",},"order":12,},
     {"id":{"name":"spr_quest1","path":"sprites/spr_quest1/spr_quest1.yy",},"order":0,},
     {"id":{"name":"spr_quest2","path":"sprites/spr_quest2/spr_quest2.yy",},"order":1,},
     {"id":{"name":"spr_quest3","path":"sprites/spr_quest3/spr_quest3.yy",},"order":2,},
@@ -161,6 +162,7 @@
     {"name":"Terceira_Quest","path":"rooms/Terceira_Quest/Terceira_Quest.yy",},
     {"name":"portugol","path":"rooms/portugol/portugol.yy",},
     {"name":"Teclas","path":"rooms/Teclas/Teclas.yy",},
+    {"name":"Room13","path":"rooms/Room13/Room13.yy",},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
