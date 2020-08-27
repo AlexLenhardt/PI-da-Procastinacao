@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_menu_resume",
-    "path": "sprites/spr_menu_resume/spr_menu_resume.yy",
+    "name": "spr_MenuControl",
+    "path": "sprites/spr_MenuControl/spr_MenuControl.yy",
   },
   "solid": false,
   "visible": true,
