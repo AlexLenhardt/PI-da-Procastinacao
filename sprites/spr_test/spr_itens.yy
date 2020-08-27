@@ -72,7 +72,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_itens","path":"sprites/spr_itens/spr_itens.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_itens",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },
