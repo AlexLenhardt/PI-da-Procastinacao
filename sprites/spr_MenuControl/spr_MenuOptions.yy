@@ -64,7 +64,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_MenuOptions","path":"sprites/spr_MenuOptions/spr_MenuOptions.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_MenuOptions",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },
