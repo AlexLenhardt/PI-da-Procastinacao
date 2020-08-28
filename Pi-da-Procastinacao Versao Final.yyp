@@ -117,6 +117,7 @@
     {"id":{"name":"obj_btn_VerFase2","path":"objects/obj_btn_VerFase2/obj_btn_VerFase2.yy",},"order":4,},
     {"id":{"name":"Quest3","path":"objects/Quest3/Quest3.yy",},"order":0,},
     {"id":{"name":"Missao3_return_cenario_2","path":"objects/Missao3_return_cenario_2/Missao3_return_cenario_2.yy",},"order":1,},
+    {"id":{"name":"test","path":"objects/test/test.yy",},"order":7,},
     {"id":{"name":"obj_teclas","path":"objects/obj_teclas/obj_teclas.yy",},"order":0,},
     {"id":{"name":"obj_controleTeclas","path":"objects/obj_controleTeclas/obj_controleTeclas.yy",},"order":1,},
     {"id":{"name":"obj_Return_Pause","path":"objects/obj_Return_Pause/obj_Return_Pause.yy",},"order":2,},
