@@ -283,11 +283,14 @@ if(!global.congratulationP1){
 					}
 				}
 			
-							if(fase == 5){
+				if(fase == 5){
 					texto_atual = string_copy(quest4,0,cont);
 					draw_text_ext_color(1330,400,texto_atual,100,550,c_white,c_white,c_white,c_white,1);
 					cont++;
-				
+					draw_set_font(Fonte_txt_Grande)
+					draw_sprite(spr_solved2,0,2400,1100)
+					draw_text(1345,1252,texto2);
+					draw_text(1345,1352,texto);
 					if(posicao == 1){
 						draw_set_color(c_white);
 						draw_set_alpha(.3);
