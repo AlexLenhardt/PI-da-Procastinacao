@@ -4,6 +4,4 @@ function scr_Pause() {
 			room_goto(Pause);
 		}
 	}
-
-
 }
