@@ -1,3 +1,7 @@
+if(global.pause == "cenario1"){
+	room_goto(Cenario_inicio);
+}
+
 if(global.pause == "quest2"){
 	room_goto(Segunda_Quest);
 }
