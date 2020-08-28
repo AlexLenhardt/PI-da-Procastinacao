@@ -130,6 +130,7 @@
     {"id":{"name":"Cenario_2","path":"rooms/Cenario_2/Cenario_2.yy",},"order":2,},
     {"id":{"name":"Segunda_Quest","path":"rooms/Segunda_Quest/Segunda_Quest.yy",},"order":3,},
     {"id":{"name":"Options","path":"rooms/Options/Options.yy",},"order":4,},
+    {"id":{"name":"spr_playbtn","path":"sprites/spr_playbtn/spr_playbtn.yy",},"order":5,},
     {"id":{"name":"Cenario_inicio","path":"rooms/Cenario_inicio/Cenario_inicio.yy",},"order":5,},
     {"id":{"name":"item_1","path":"rooms/item_1/item_1.yy",},"order":6,},
     {"id":{"name":"fluxograma","path":"rooms/fluxograma/fluxograma.yy",},"order":7,},
