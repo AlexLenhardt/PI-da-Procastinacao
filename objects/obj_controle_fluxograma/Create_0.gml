@@ -16,7 +16,7 @@
 
 global.ind = 0;
 
-paginas = 0
+paginas = 1
 
 teste = "Pagina 1"
 teste1 = "Pagina 2"
