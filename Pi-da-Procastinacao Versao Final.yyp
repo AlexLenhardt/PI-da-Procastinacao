@@ -94,6 +94,7 @@
     {"id":{"name":"obj_ponte","path":"objects/obj_ponte/obj_ponte.yy",},"order":4,},
     {"id":{"name":"spr_MenuControl","path":"sprites/spr_MenuControl/spr_MenuControl.yy",},"order":4,},
     {"id":{"name":"obj_fireT1","path":"objects/obj_fireT1/obj_fireT1.yy",},"order":5,},
+    {"id":{"name":"spr_menu_portugol","path":"sprites/spr_menu_portugol/spr_menu_portugol.yy",},"order":2,},
     {"id":{"name":"obj_firet2","path":"objects/obj_firet2/obj_firet2.yy",},"order":6,},
     {"id":{"name":"obj_fireT3","path":"objects/obj_fireT3/obj_fireT3.yy",},"order":7,},
     {"id":{"name":"obj_corpo","path":"objects/obj_corpo/obj_corpo.yy",},"order":0,},

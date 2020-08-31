@@ -64,7 +64,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_menu_fluxograma","path":"sprites/spr_menu_fluxograma/spr_menu_fluxograma.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_menu_fluxograma",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },

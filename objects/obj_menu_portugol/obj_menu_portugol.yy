@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_menu_fluxograma",
-    "path": "sprites/spr_menu_fluxograma/spr_menu_fluxograma.yy",
+    "name": "spr_menu_portugol",
+    "path": "sprites/spr_menu_portugol/spr_menu_portugol.yy",
   },
   "solid": false,
   "visible": true,
