@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_creditos",
-    "path": "sprites/spr_creditos/spr_creditos.yy",
+    "name": "spr_MenuControl49",
+    "path": "sprites/spr_MenuControl49/spr_MenuControl49.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":6,"collisionObjectId":null,"parent":{"name":"btn_reset","path":"objects/btn_reset/btn_reset.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
@@ -28,7 +30,7 @@
     "path": "folders/Objects/Créditos.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_cred",
+  "name": "btn_reset",
   "tags": [],
   "resourceType": "GMObject",
 }
