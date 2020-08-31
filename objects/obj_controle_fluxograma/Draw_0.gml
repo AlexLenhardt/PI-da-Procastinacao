@@ -13,21 +13,21 @@ if(keyboard_check_pressed(vk_left)){
 	}
 }
 
-if(paginas == 1){
-	draw_text_color(100,100,teste,c_black,c_black,c_black,c_black,1)
+
+switch(paginas)
+{
+	case 1: draw_text_color(100,100,teste,c_black,c_black,c_black,c_black,1) break;
+	
+	case 2: draw_text_color(100,100,teste1,c_black,c_black,c_black,c_black,1) break;
+	
+	case 3: draw_text_color(100,100,teste2,c_black,c_black,c_black,c_black,1) break;
+
+	case 4: draw_text_color(100,100,teste3,c_black,c_black,c_black,c_black,1) break;
+	
+	case 5: draw_text_color(100,100,teste4,c_black,c_black,c_black,c_black,1) break;
+	
 }
-if(paginas == 2){
-	draw_text_color(100,100,teste1,c_black,c_black,c_black,c_black,1)
-}
-if(paginas == 3){
-	draw_text_color(100,100,teste2,c_black,c_black,c_black,c_black,1)
-}
-if(paginas == 4){
-	draw_text_color(100,100,teste3,c_black,c_black,c_black,c_black,1)
-}
-if(paginas == 5){
-	draw_text_color(100,100,teste4,c_black,c_black,c_black,c_black,1)
-}
+
 	
 	
 
