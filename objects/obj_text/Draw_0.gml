@@ -26,7 +26,6 @@ if(pag<=2){
 	//Printar "Sim" e "Não"
 	draw_text_ext_color(x+160,y+410,text_resp[0],sep,caixa_w - 20,c_black,c_black,c_black,c_black,1);
 	draw_text_ext_color(x+160,y+430,text_resp[1],sep,caixa_w - 20,c_black,c_black,c_black,c_black,1);
-
 	//Mudar a posição da forma branca
 	if(keyboard_check_pressed(vk_down)){
 		yy += 20;

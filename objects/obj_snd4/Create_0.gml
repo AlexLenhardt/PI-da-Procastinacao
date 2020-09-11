@@ -1,1 +1,4 @@
-audio_play_sound(snd_Leflex,1000,true);
+global.verSound3 = false
+global.verSound2 = false
+global.verSound1 = false
+

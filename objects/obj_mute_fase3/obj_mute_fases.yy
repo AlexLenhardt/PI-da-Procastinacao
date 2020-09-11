@@ -18,17 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_set_pause","path":"objects/obj_set_pause/obj_set_pause.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_set_pause","path":"objects/obj_set_pause/obj_set_pause.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":77,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_mute_fases","path":"objects/obj_mute_fases/obj_mute_fases.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Cenario1",
-    "path": "folders/Objects/Cenario1.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_set_pause",
+  "name": "obj_mute_fases",
   "tags": [],
   "resourceType": "GMObject",
 }

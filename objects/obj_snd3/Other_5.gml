@@ -1,1 +1,1 @@
-audio_stop_sound(snd_coyote_kisses);
+audio_pause_sound(snd_cascade);

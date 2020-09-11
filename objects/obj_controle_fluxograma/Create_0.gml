@@ -2,7 +2,6 @@ global.ind = 0;
 
 paginas = 1
 
-<<<<<<< HEAD
 TextoSE = "A maioria dos algoritmos precisa tomar decisões ao longo de sua execução. Para isso existem as \n" 
 TextoSE +="estruturas de decisão, e a mais utilizada é a estrutura SE-ENTÃO-SENÃO.\n"
 TextoSE +="O funcionamento é simples: com base no resultado de uma expressão booleana (VERDADEIRO ou FALSO)\n"
@@ -19,10 +18,3 @@ TextoPARA = "Pagina 2"
 TextoENQUANTO = "Pagina 3"
 TextoFluxograma = "Pagina 4"
 TextoPseudocodigo = "Pagina 5"
-=======
-teste = "Pagina 1"
-teste1 = "Pagina 2"
-teste2 = "Pagina 3"
-teste3 = "Pagina 4"
-teste4 = "Pagina 5"
->>>>>>> parent of b8360f7... text

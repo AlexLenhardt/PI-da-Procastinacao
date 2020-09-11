@@ -18,14 +18,15 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_snd2","path":"objects/obj_snd2/obj_snd2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_snd2","path":"objects/obj_snd2/obj_snd2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":5,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_snd2","path":"objects/obj_snd2/obj_snd2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"obj_snd2","path":"objects/obj_snd2/obj_snd2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "SoundFX",
-    "path": "folders/Objects/SoundFX.yy",
+    "name": "Missao2_portugol",
+    "path": "folders/Objects/Missao2_portugol.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_snd2",
