@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Dialogo_Velho",
-    "path": "folders/Objects/Cenario2/Dialogo_Velho.yy",
+    "name": "Item_1",
+    "path": "folders/Objects/Item_1.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_scroll",

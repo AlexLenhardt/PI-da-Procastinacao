@@ -17,15 +17,18 @@ draw_rectangle(75,100,945,400,0);
 
 switch(paginas)
 {
-	case 1: draw_text_color(100,100,teste,c_black,c_black,c_black,c_black,1) break;
+	case 3: draw_text_color(90,125,TextoSE,c_black,c_black,c_black,c_black,1) 
+			draw_sprite(Algoritmo_SE,0,10,500)
+			draw_sprite(Fluxograma_Algoritmo_SE,0,100,800)
+			break;
 	
-	case 2: draw_text_color(100,100,teste1,c_black,c_black,c_black,c_black,1) break;
+	case 5: draw_text_color(90,125,TextoPARA,c_black,c_black,c_black,c_black,1) break;
 	
-	case 3: draw_text_color(100,100,teste2,c_black,c_black,c_black,c_black,1) break;
+	case 4: draw_text_color(90,125,TextoENQUANTO,c_black,c_black,c_black,c_black,1) break;
 
-	case 4: draw_text_color(100,100,teste3,c_black,c_black,c_black,c_black,1) break;
+	case 1: draw_text_color(90,125,TextoFluxograma,c_black,c_black,c_black,c_black,1) break;
 	
-	case 5: draw_text_color(100,100,teste4,c_black,c_black,c_black,c_black,1) break;
+	case 2: draw_text_color(90,125,TextoPseudocodigo,c_black,c_black,c_black,c_black,1) break;
 	
 }
 
