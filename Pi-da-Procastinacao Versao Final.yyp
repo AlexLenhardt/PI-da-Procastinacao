@@ -114,6 +114,7 @@
     {"id":{"name":"obj_Porta_1","path":"objects/obj_Porta_1/obj_Porta_1.yy",},"order":0,},
     {"id":{"name":"obj_Porta_2","path":"objects/obj_Porta_2/obj_Porta_2.yy",},"order":1,},
     {"id":{"name":"obj_controle_saida","path":"objects/obj_controle_saida/obj_controle_saida.yy",},"order":1,},
+    {"id":{"name":"obj_cred69","path":"objects/obj_cred69/obj_cred69.yy",},"order":2,},
     {"id":{"name":"pause_set_quest1","path":"objects/pause_set_quest1/pause_set_quest1.yy",},"order":2,},
     {"id":{"name":"return_cenario2","path":"objects/return_cenario2/return_cenario2.yy",},"order":3,},
     {"id":{"name":"obj_SE","path":"objects/obj_SE/obj_SE.yy",},"order":4,},

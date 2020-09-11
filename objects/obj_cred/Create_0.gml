@@ -1,1 +1,1 @@
-erros = false 
+global.y = 800

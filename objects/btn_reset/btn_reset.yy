@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_MenuControl49",
-    "path": "sprites/spr_MenuControl49/spr_MenuControl49.yy",
+    "name": "spr_menu_exit",
+    "path": "sprites/spr_menu_exit/spr_menu_exit.yy",
   },
   "solid": false,
   "visible": true,
