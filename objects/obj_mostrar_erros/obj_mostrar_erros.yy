@@ -17,17 +17,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":77,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_mute_fase2","path":"objects/obj_mute_fase2/obj_mute_fase2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Missao2_portugol",
-    "path": "folders/Objects/Missao2_portugol.yy",
+    "name": "Créditos",
+    "path": "folders/Objects/Créditos.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_mute_fase2",
+  "name": "obj_mostrar_erros",
   "tags": [],
   "resourceType": "GMObject",
 }

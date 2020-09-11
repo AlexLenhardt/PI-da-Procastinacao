@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Missao1_fluxograma",
+    "path": "folders/Objects/Missao1_fluxograma.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_mute_fase1",

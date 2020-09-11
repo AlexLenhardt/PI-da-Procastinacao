@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Missao3_portugol_entradasaida",
+    "path": "folders/Objects/Missao3_portugol_entradasaida.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_mute_fase3",

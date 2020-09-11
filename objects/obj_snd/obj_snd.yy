@@ -18,16 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":77,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_mute_fase2","path":"objects/obj_mute_fase2/obj_mute_fase2.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":2,"eventType":7,"collisionObjectId":null,"parent":{"name":"obj_snd","path":"objects/obj_snd/obj_snd.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Missao2_portugol",
-    "path": "folders/Objects/Missao2_portugol.yy",
+    "name": "Menu",
+    "path": "folders/Objects/Menu.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_mute_fase2",
+  "name": "obj_snd",
   "tags": [],
   "resourceType": "GMObject",
 }

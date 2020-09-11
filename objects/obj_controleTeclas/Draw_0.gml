@@ -7,10 +7,7 @@ draw_text_color(230,328,tecla_shift,c_black,c_black,c_black,c_black,1);
 draw_text_color(247,393,tecla_r,c_black,c_black,c_black,c_black,1);
 draw_text_color(230,455,tecla_space,c_black,c_black,c_black,c_black,1);
 draw_text_color(230,520,tecla_setas,c_black,c_black,c_black,c_black,1);
+draw_text_color(247,582,tecla_m,c_black,c_black,c_black,c_black,1);
 draw_set_font(-1);
-
-show_debug_message(mouse_x)
-show_debug_message(mouse_y)
-show_debug_message("")
 
 //a diferença em y é 62
