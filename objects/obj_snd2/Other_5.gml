@@ -1,1 +1,1 @@
-audio_stop_sound(snd_bluebird);
+audio_pause_sound(snd_bluebird);

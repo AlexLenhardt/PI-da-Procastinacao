@@ -29,3 +29,5 @@ resps3[3] = "Entrada:  7\nSaída:    O resultado do fatorial é: 14";
 
 sucesso = "Você é muito incrível :)!";
 cont = 0;
+
+global.p = 1

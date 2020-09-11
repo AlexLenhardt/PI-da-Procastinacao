@@ -16,6 +16,8 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"Quest3","path":"objects/Quest3/Quest3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,"resourceVersion":"1.0","name":"inst_2DB6782D","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"Missao3_return_cenario_2","path":"objects/Missao3_return_cenario_2/Missao3_return_cenario_2.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":2.422222,"scaleY":1.744186,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":672.0,"resourceVersion":"1.0","name":"inst_6266C571","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_snd3","path":"objects/obj_snd3/obj_snd3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":32.0,"resourceVersion":"1.0","name":"inst_4098D1B2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_mute_fase3","path":"objects/obj_mute_fase3/obj_mute_fase3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":32.0,"resourceVersion":"1.0","name":"inst_256BF85F","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tileset2","path":"tilesets/tileset2/tileset2.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":64,"SerialiseHeight":48,"TileSerialiseData":[
 3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,
@@ -75,6 +77,8 @@
   "instanceCreationOrder": [
     {"name":"inst_2DB6782D","path":"rooms/Terceira_Quest/Terceira_Quest.yy",},
     {"name":"inst_6266C571","path":"rooms/Terceira_Quest/Terceira_Quest.yy",},
+    {"name":"inst_4098D1B2","path":"rooms/Terceira_Quest/Terceira_Quest.yy",},
+    {"name":"inst_256BF85F","path":"rooms/Terceira_Quest/Terceira_Quest.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

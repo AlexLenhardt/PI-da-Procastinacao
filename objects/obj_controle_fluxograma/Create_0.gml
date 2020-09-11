@@ -18,7 +18,7 @@ global.ind = 0;
 
 paginas = 1
 
-teste = "A maioria dos algoritmos precisa tomar decisões ao longo de sua execução. Para isso existem as estruturas de decisão, e a mais utilizada é a estrutura SE-ENTÃO-SENÃO. O funcionamento é simples: com base no resultado de uma expressão booleana (VERDADEIRO ou FALSO), o fluxo do algoritmo segue para um bloco de instruções ou não. Observe o esquema da estrutura SE-ENTÃO-SENÃO:"
+teste = "Pagina 1"
 teste1 = "Pagina 2"
 teste2 = "Pagina 3"
 teste3 = "Pagina 4"
