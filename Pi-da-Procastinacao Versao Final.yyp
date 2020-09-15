@@ -92,6 +92,7 @@
     {"id":{"name":"spr_MenuControl49","path":"sprites/spr_MenuControl49/spr_MenuControl49.yy",},"order":1,},
     {"id":{"name":"obj_snd","path":"objects/obj_snd/obj_snd.yy",},"order":4,},
     {"id":{"name":"obj_Pause","path":"objects/obj_Pause/obj_Pause.yy",},"order":0,},
+    {"id":{"name":"Object73","path":"objects/Object73/Object73.yy",},"order":15,},
     {"id":{"name":"obj_Instrucoes","path":"objects/obj_Instrucoes/obj_Instrucoes.yy",},"order":1,},
     {"id":{"name":"obj_test","path":"objects/obj_test/obj_test.yy",},"order":8,},
     {"id":{"name":"room_goto_Quest1","path":"objects/room_goto_Quest1/room_goto_Quest1.yy",},"order":0,},

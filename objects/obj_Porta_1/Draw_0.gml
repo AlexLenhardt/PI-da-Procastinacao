@@ -336,7 +336,8 @@ if(!global.congratulationP1){
 			cont = 0;
 			fase = 6
 		}else{
-			global.erros++	
+			global.erros++
+			global.errado = true
 		}
 	}
 				
