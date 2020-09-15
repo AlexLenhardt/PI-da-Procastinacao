@@ -190,6 +190,7 @@ if(!global.complete3){
 				posicao = 1;
 			}else{
 				global.erros++
+				global.errado = true
 			}
 	}
 	draw_set_font(Fonte_txt_Grande)

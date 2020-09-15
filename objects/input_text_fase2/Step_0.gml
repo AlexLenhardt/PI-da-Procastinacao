@@ -37,6 +37,7 @@ if(!global.complete2){
 			}else{
 				global.click = false;
 				global.erros++;	
+				global.errado = true
 			}
 		}
 	}
@@ -69,7 +70,8 @@ if(!global.complete2){
 				global.click = false;				
 			}else{
 				global.click = false;
-				global.erros++;	
+				global.erros++;
+				global.errado = true
 			}
 		}
 	}
@@ -103,6 +105,7 @@ if(!global.complete2){
 			}else{
 				global.click = false;
 				global.erros++;	
+				global.errado = true
 			}
 		}
 	}

@@ -7,3 +7,5 @@ global.velv=0;
 global.estado = "parado";
 
 global.animation = true;
+
+global.errado = false
