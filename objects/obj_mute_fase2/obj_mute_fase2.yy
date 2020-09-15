@@ -23,8 +23,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Missao2_portugol",
+    "path": "folders/Objects/Missao2_portugol.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_mute_fase2",
