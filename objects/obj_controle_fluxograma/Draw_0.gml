@@ -13,6 +13,7 @@ if(keyboard_check_pressed(vk_left)){
 	}
 }
 
+draw_rectangle(75,100,945,400,0);
 
 switch(paginas)
 {
