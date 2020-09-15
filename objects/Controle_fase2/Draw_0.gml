@@ -69,4 +69,6 @@ if(global.fase == 3){
 		draw_set_alpha(1);
 	}
 }
+}else{
+	draw_sprite_ext(spr_END,0,650,350,1,1,0,c_white,1);
 }

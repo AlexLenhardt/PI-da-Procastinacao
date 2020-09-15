@@ -17,9 +17,11 @@ draw_rectangle(75,100,945,400,0);
 
 switch(paginas)
 {
-	case 3: draw_text_color(90,125,TextoSE,c_black,c_black,c_black,c_black,1) 
-			draw_sprite(Algoritmo_SE,0,10,500)
-			draw_sprite(Fluxograma_Algoritmo_SE,0,100,800)
+	case 3: draw_text_color(90,125,TextoSE,c_black,c_black,c_black,c_black,1);
+			draw_text_color(90,425,TextoSE3,c_black,c_black,c_black,c_black,1);
+			draw_text_color(90,1185,TextoSE2,c_black,c_black,c_black,c_black,1);
+			draw_sprite_ext(Algoritmo_SE,0,75,1320,1.45,1.2,0,c_white,1);
+			draw_sprite_ext(FluxogramaSE,0,75,500,1,0.8,0,c_white,1);
 			break;
 	
 	case 5: draw_text_color(90,125,TextoPARA,c_black,c_black,c_black,c_black,1) break;
@@ -31,53 +33,3 @@ switch(paginas)
 	case 2: draw_text_color(90,125,TextoPseudocodigo,c_black,c_black,c_black,c_black,1) break;
 	
 }
-
-	
-	
-
-
-
-
-
-
-
-
-////Pega a largura da caixa para o texto saber quando quebrar o texto (Enter)
-//var caixa_w = sprite_get_width(spr_fluxograma_didatico);
-//draw_set_font(Fonte_menu_info);
-
-//if(seq <= 1){
-//	texto_atual = string_copy(text_info_fluxograma[0],1,global.ind);
-//	texto_atual1 = string_copy(text_info_fluxograma[1],1,global.ind);
-//	texto_atual2 = string_copy(text_info_fluxograma[2],1,global.ind);
-//	texto_atual3 = string_copy(text_info_fluxograma[3],1,global.ind);
-//	texto_atual4 = string_copy(text_info_fluxograma[4],1,global.ind);
-//	texto_atual5 = string_copy(text_info_fluxograma[5],1,global.ind);
-//	texto_atual6 = string_copy(text_info_fluxograma[6],1,global.ind);
-//	texto_atual7 = string_copy(text_info_fluxograma[7],1,global.ind);
-//	texto_atual8 = string_copy(text_info_fluxograma[8],1,global.ind);
-//	texto_atual9 = string_copy(text_info_fluxograma[9],1,global.ind);
-//	texto_atual10 = string_copy(text_info_fluxograma[10],1,global.ind);
-//	texto_atual11 = string_copy(text_info_fluxograma[11],1,global.ind);
-//	texto_atual12 = string_copy(text_info_fluxograma[12],1,global.ind);
-
-//	draw_text_ext_color(x+150,y+170, texto_atual  ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+630, texto_atual1 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+690, texto_atual2 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+730, texto_atual3 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+820, texto_atual4 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1030,texto_atual5 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1200,texto_atual6 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1420,texto_atual7 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	// o "tablet" so vai ate a posicao 1500 em y, a partir daqui nao printa nada, mas como aquel imagem ta um coco vamos refazer
-//	draw_text_ext_color(x+150,y+1530,texto_atual8 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1630,texto_atual9 ,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1730,texto_atual10,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1830,texto_atual11,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-//	draw_text_ext_color(x+150,y+1930,texto_atual12,30,caixa_w+(caixa_w/2),c_black,c_black,c_black,c_black,1)
-
-//	global.ind++
-//}
-
-
-//draw_set_font(-1);

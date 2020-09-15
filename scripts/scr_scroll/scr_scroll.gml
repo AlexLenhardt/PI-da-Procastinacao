@@ -6,7 +6,7 @@ function scr_scroll() {
 		}
 	}
 	if keyboard_check(vk_down)||keyboard_check(ord("S"))	{
-		if(y<=1120){
+		if(y<=1320){
 			y+=3;
 		}
 	}

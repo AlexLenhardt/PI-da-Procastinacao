@@ -59,6 +59,7 @@
     {"id":{"name":"snd_cascade","path":"sounds/snd_cascade/snd_cascade.yy",},"order":1,},
     {"id":{"name":"snd_coyote_kisses","path":"sounds/snd_coyote_kisses/snd_coyote_kisses.yy",},"order":2,},
     {"id":{"name":"snd_Leflex","path":"sounds/snd_Leflex/snd_Leflex.yy",},"order":3,},
+    {"id":{"name":"FluxogramaSE","path":"sprites/FluxogramaSE/FluxogramaSE.yy",},"order":1,},
     {"id":{"name":"scr_Walk","path":"scripts/scr_Walk/scr_Walk.yy",},"order":0,},
     {"id":{"name":"scr_Pause","path":"scripts/scr_Pause/scr_Pause.yy",},"order":1,},
     {"id":{"name":"scr_Options","path":"scripts/scr_Options/scr_Options.yy",},"order":2,},
@@ -177,9 +178,9 @@
   },
   "RoomOrder": [
     {"name":"Menu","path":"rooms/Menu/Menu.yy",},
+    {"name":"Cenario_2","path":"rooms/Cenario_2/Cenario_2.yy",},
     {"name":"Creditos","path":"rooms/Creditos/Creditos.yy",},
     {"name":"Cenario_inicio","path":"rooms/Cenario_inicio/Cenario_inicio.yy",},
-    {"name":"Cenario_2","path":"rooms/Cenario_2/Cenario_2.yy",},
     {"name":"Terceira_Quest","path":"rooms/Terceira_Quest/Terceira_Quest.yy",},
     {"name":"Sala_escolha","path":"rooms/Sala_escolha/Sala_escolha.yy",},
     {"name":"Pause","path":"rooms/Pause/Pause.yy",},
