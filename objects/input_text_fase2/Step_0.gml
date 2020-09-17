@@ -45,7 +45,7 @@ if(!global.complete2){
 	if(global.fase == 2){
 		if(global.click){
 			global.pontuacao = 0;
-			if(string_upper(text1) == string_upper("para contador de 1 ate 10 faca")){
+			if(string_upper(text1) == string_upper("para contador de 1 ate 10 faca") || (string_upper(text1) == string_upper("para contador de 1 ate 10 passo 1 faca"))){
 				global.pontuacao++;
 				global.click = false;
 			}
