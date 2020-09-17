@@ -198,8 +198,7 @@ if(!global.complete3){
 	draw_text_color(600,60,resposta,c_white,c_white,c_white,c_white,1)
 	draw_set_font(-1)
 }else{
-	draw_set_font(Fonte_Planetaria);
-	texto_atual = (string_copy(sucesso,0,cont));
-	draw_text_ext(400,200,sucesso,100,500);	
+	
+	draw_sprite_ext(spr_END_fase3,0,750,350,1.5,1.8,0,c_white,1);
 }
 draw_set_font(-1);

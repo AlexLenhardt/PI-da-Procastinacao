@@ -345,9 +345,7 @@ if(!global.congratulationP1){
 		fase = 1;
 	}
 }else {
-	draw_set_font(Fonte_Planetaria);
-	texto_atual = (string_copy(sucesso,0,cont));
-	draw_text_ext(1250,403,sucesso,100,500);
+	draw_sprite_ext(spr_END,0,1500,750,1.5,1.8,0,c_white,1);
 	global.complete1[0] = true;
 }
 draw_set_font(-1);

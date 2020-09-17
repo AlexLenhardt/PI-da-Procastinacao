@@ -60,7 +60,7 @@
     "eventStubScript": null,
     "parent": {"name":"spr_END","path":"sprites/spr_END/spr_END.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_END",
+    "name": "",
     "tags": [],
     "resourceType": "GMSequence",
   },

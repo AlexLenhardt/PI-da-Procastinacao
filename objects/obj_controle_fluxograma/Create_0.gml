@@ -23,7 +23,10 @@ TextoSE2 +="negativo ou nulo";
 TextoSE3 = "O bloco de código SENAO é opcional. É comum encontrar instruções de decisão apenas\n";
 TextoSE3 +="com SE-ENTAO sem o bloco SENAO. Veja um esquema gráfico desta estrutura de decisão.";
 
-TextoPARA = "Pagina 2"
-TextoENQUANTO = "Pagina 3"
-TextoFluxograma = "Pagina 4"
-TextoPseudocodigo = "Pagina 5"
+TextoPARA = "Pagina 5"
+
+TextoENQUANTO = "Pagina 4"
+
+TextoFluxograma = "Pagina 1"
+
+TextoPseudocodigo = "Pagina 2"
