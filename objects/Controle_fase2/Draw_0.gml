@@ -58,14 +58,14 @@ if(global.fase == 3){
 	if(global.posicao == 1){
 		draw_set_color(c_white);
 		draw_set_alpha(.5);
-		draw_rectangle(310,370,620,410,false);
+		draw_rectangle(310,330,620,370,false);
 		draw_set_alpha(1);
 	}
 	
 	if(global.posicao == 2){
 		draw_set_color(c_white);
 		draw_set_alpha(.5);
-		draw_rectangle(310,625,490,665,false);
+		draw_rectangle(310,570,490,610,false);
 		draw_set_alpha(1);
 	}
 }

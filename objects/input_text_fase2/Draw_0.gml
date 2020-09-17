@@ -185,12 +185,12 @@ if(!global.complete2){
 	//printando os textos salvos
 		if(resp1){
 			draw_set_valign(fa_center);
-			draw_text_color(320,390, text1,c_black,c_black,c_black,c_black,1);
+			draw_text_color(320,350, text1,c_black,c_black,c_black,c_black,1);
 			draw_set_valign(fa_top);
 		}
 		if(resp2){
 			draw_set_valign(fa_center);
-			draw_text_color(320,650, text2,c_black,c_black,c_black,c_black,1);
+			draw_text_color(320,590, text2,c_black,c_black,c_black,c_black,1);
 			draw_set_valign(fa_top);
 		}
 
@@ -201,7 +201,7 @@ if(!global.complete2){
 				keyboard_string = text1;	
 			}
 			draw_set_valign(fa_center);
-			draw_text_color(320,390, mensagem,c_black,c_black,c_black,c_black,1);
+			draw_text_color(320,350, mensagem,c_black,c_black,c_black,c_black,1);
 			draw_set_valign(fa_top);
 		}
 		if(global.posicao == 2){
@@ -210,7 +210,7 @@ if(!global.complete2){
 				keyboard_string = text2;	
 			}
 			draw_set_valign(fa_center);
-			draw_text_color(320,650, mensagem,c_black,c_black,c_black,c_black,1);
+			draw_text_color(320,590, mensagem,c_black,c_black,c_black,c_black,1);
 			draw_set_valign(fa_top);
 		}
 
