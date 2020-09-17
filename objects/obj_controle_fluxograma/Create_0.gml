@@ -36,7 +36,7 @@ TextoENQUANTO3 = "Veja um esquema gráfico desta estrutura de repetição.";
 TextoENQUANTO4 = "ESTRUTURA ENQUANTO NA PRÁTICA!";
 TextoENQUANTO5 = "Para entender na prática como usamos essa estrutura de repetição, vejamos um exemplo de algoritmo utilizando a ferramenta VisuAlg. Nesse algoritmo o usuário digita 5 idades, e uma por vez é feito uma verificação e impresso na tela se aquela idade é de maior ou não";
 
-TextoFluxograma = "Pagina 1"
+TextoFluxograma = "Introdução à Fluxograma\n\n     Fluxograma é uma ferramenta utilizada para representar graficamente o algoritmo, isto é, a sequência lógica e coerente do fluxo de dados. Composta por desenhos geométricos simples conhecidos como diagrama de bloco.\n\nDiagrama de Blocos\n\n     Ferramenta utilizada para representar o método do fluxograma, isto é, o que significa cada símbolo geométrico utilizado no fluxo, sua função.";
 
 TextoPseudocodigo = "O que é uma variável?"
 TextoPseudocodigoobs = "Obs: nomes de variáveis não podem conter espaços ou caracteres especiais."

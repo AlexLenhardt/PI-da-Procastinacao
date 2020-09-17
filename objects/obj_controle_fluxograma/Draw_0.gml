@@ -50,8 +50,9 @@ switch(paginas)
 			break;
 
 	case 1: 
-			draw_rectangle(75,100,945,400,0);
-			draw_text_color(90,125,TextoFluxograma,c_black,c_black,c_black,c_black,1); 
+			draw_rectangle(75,100,945,350,0);
+			draw_text_ext_color(90,125,TextoFluxograma,20,825,c_black,c_black,c_black,c_black,1);
+			draw_sprite_ext(Fluxograma,0,250,375,1,1,0,c_white,1);
 			break;
 	
 	case 2: 

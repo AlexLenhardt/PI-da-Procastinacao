@@ -40,6 +40,7 @@
     {"id":{"name":"obj_set_pause","path":"objects/obj_set_pause/obj_set_pause.yy",},"order":2,},
     {"id":{"name":"spr_quest3","path":"sprites/spr_quest3/spr_quest3.yy",},"order":2,},
     {"id":{"name":"spr_END","path":"sprites/spr_END/spr_END.yy",},"order":3,},
+    {"id":{"name":"Fluxograma","path":"sprites/Fluxograma/Fluxograma.yy",},"order":0,},
     {"id":{"name":"spr_block","path":"sprites/spr_block/spr_block.yy",},"order":0,},
     {"id":{"name":"spr_bau","path":"sprites/spr_bau/spr_bau.yy",},"order":1,},
     {"id":{"name":"spr_ponte","path":"sprites/spr_ponte/spr_ponte.yy",},"order":2,},
@@ -252,6 +253,7 @@
     {"folderPath":"folders/Sprites/Item_1/ENQUANTO.yy","order":6,"resourceVersion":"1.0","name":"ENQUANTO","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Item_1/PARA.yy","order":7,"resourceVersion":"1.0","name":"PARA","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Item_1/PSEUDO.yy","order":8,"resourceVersion":"1.0","name":"PSEUDO","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Sprites/Item_1/FLUXOGRAMA.yy","order":9,"resourceVersion":"1.0","name":"FLUXOGRAMA","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":461609314234257646,"resourceVersion":"1.0","name":"audiogroup_default","resourceType":"GMAudioGroup",},
