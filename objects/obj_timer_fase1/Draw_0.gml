@@ -1,4 +1,3 @@
-show_debug_message(timer)
 draw_set_font(Fonte_Planetaria)
 if(global.errado){
 	timer -= 1
