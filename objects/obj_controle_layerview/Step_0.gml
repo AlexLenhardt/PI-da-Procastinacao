@@ -1,5 +1,5 @@
 if(global.complete2){
-var a = layer_get_id_at_depth(101);
+var a = layer_get_id_at_depth(201);
 	if a[0] != -1 {
 		for (var i = 0; i < array_length(a); i++;){
 			layer_destroy(a[i]);

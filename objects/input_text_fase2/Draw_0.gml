@@ -14,7 +14,7 @@ if(!global.complete2){
 			if(global.posicao == 1){
 				//text recebe mensagem para deixar gravado na tela
 				text1 = mensagem
-				//resp1 recebe true para verificar se já foi colocado alguma resposta naquele estapaço
+				//resp1 recebe true para verificar se já foi colocado alguma resposta naquele espaço
 				mensagem = "";
 				resp1 = true;
 				//posicao global recebe 2 para ir ao proximo texto
