@@ -11,6 +11,14 @@ function scr_scroll() {
 		}
 	}
 	
+	if keyboard_check(vk_left)||keyboard_check(ord("A"))	{
+		y=384;
+	}
+	
+	if keyboard_check(vk_right)||keyboard_check(ord("D"))	{
+		y=384;
+	}
+	
 
 
 }
