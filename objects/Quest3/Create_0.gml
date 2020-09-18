@@ -25,7 +25,7 @@ texto3[1] = "Var\n\n    valor, fat, num:inteiro\n\nInicio\n    Leia(valor)\n    
 resps3[0] = "Entrada: -5\nSaída: O resultado do fatorial é: 35";
 resps3[1] = "Entrada:  4\nSaída:    O resultado do fatorial é: 24";
 resps3[2] = "Entrada:  5\nSaída:    O resultado do fatorial é: 50";
-resps3[3] = "Entrada:  7\nSaída:    O resultado do fatorial é: 14";
+resps3[3] = "Entrada:  7\nSaída:    O resultado do fatorial é: 5040";
 
 sucesso = "Você é muito incrível :)!";
 cont = 0;
