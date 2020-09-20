@@ -1,4 +1,4 @@
-image_index = 7;
+image_index = 8;
 image_speed = 0;
 global.dados=false;
 global.reset_d=false;

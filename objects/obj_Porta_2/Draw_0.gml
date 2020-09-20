@@ -17,7 +17,7 @@ if(!global.congratulationP2){
 			draw_sprite_ext(spr_quest1,0,400,750,2,2.2,0,c_white,1);
 			obj_SE.image_index=5;
 			obj_Processo.image_index=1;
-			obj_Dados.image_index=2;
+			obj_Dados.image_index=7;
 			if(global.se){
 				fase=2;
 				global.reset=true;
@@ -34,9 +34,9 @@ if(!global.congratulationP2){
 			draw_sprite_ext(spr_quest3,0,550,750,2,2.2,0,c_white,1);
 			if(global.dados && !global.processo){
 				global.congratulationP2=true;
-				obj_SE.image_index=7;
-				obj_Processo.image_index=7;
-				obj_Dados.image_index=7;
+				obj_SE.image_index=8;
+				obj_Processo.image_index=8;
+				obj_Dados.image_index=8;
 			}
 		}
 	}
