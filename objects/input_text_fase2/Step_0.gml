@@ -78,7 +78,7 @@ if(!global.complete2){
 	if(global.fase == 3){
 		if(global.click){
 			global.pontuacao = 0;
-			if(string_upper(text1) == string_upper("enquanto x<>ler faca") || string_upper(text1) == string_upper("enquanto x <>ler faca") || string_upper(text1) == string_upper("enquanto x<> ler faca") || string_upper(text1) == string_upper("enquanto x <> ler faca") || string_upper(text1) == string_upper("enquanto ler<>x faca") || string_upper(text1) == string_upper("enquanto ler <>x faca") || string_upper(text1) == string_upper("enquanto ler<> x faca") || string_upper(text1) == string_upper("enquanto ler <> x faca")){
+			if(string_upper(text1) == string_upper("enquanto x<>ler faca") || string_upper(text1) == string_upper("enquanto x <>ler faca") || string_upper(text1) == string_upper("enquanto x<> ler faca") || string_upper(text1) == string_upper("enquanto x <> ler faca") || string_upper(text1) == string_upper("enquanto ler<>x faca") || string_upper(text1) == string_upper("enquanto ler <>x faca") || string_upper(text1) == string_upper("enquanto ler<> x faca") || string_upper(text1) == string_upper("enquanto ler <> x faca")||string_upper(text1) == string_upper("enquanto (x<>ler) faca") || string_upper(text1) == string_upper("enquanto (x <>ler) faca") || string_upper(text1) == string_upper("enquanto (x<> ler) faca") || string_upper(text1) == string_upper("enquanto (x <> ler) faca") || string_upper(text1) == string_upper("enquanto (ler<>x) faca") || string_upper(text1) == string_upper("enquanto (ler <>x) faca") || string_upper(text1) == string_upper("enquanto (ler<> x) faca") || string_upper(text1) == string_upper("enquanto (ler <> x) faca")){
 				global.pontuacao++;
 				global.click = false;
 			}
