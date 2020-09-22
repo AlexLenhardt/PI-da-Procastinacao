@@ -28,7 +28,7 @@ resps3[1] = "Entrada:  4\nSaída:    O resultado do fatorial é: -24";
 resps3[2] = "Entrada:  6\nSaída:    O resultado do fatorial é: 710";
 
 resps3[0] = "Entrada: -5\nSaída: O resultado do fatorial é: 35";
-resps3[1] = "Entrada:  4\nSaída:    O resultado do fatorial é: 24";
+resps3[1] = "Entrada:  4\nSaída:    O resultado do fatorial é: 28";
 resps3[2] = "Entrada:  5\nSaída:    O resultado do fatorial é: 50";
 resps3[3] = "Entrada:  7\nSaída:    O resultado do fatorial é: 5040";
 
